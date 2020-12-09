@@ -1,4 +1,16 @@
 # ntru
+## ITSEC ##
+###Install python3###
+./install.sh
+./key-gen.sh
+
+####encrypt####
+./encrypt <filename of file in assets/resources>
+
+####decrypt####
+./decrypt <filename>.result
+
+
 **ntru** is a simple implementation of NTRUEncrypt cryptosystem, written in Python 3.6.
 Polynomial operations are implemented using [SymPy](http://www.sympy.org) library.
 It was made as a homework project for "Error-Correcting Codes and Cryptography" workshops on [Faculty of Mathematics and Information Science of Warsaw University of Technology](http://www.mini.pw.edu.pl).
