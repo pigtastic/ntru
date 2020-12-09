@@ -9,7 +9,7 @@
 ./encrypt <filename of file in assets/resources>
 
 #### decrypt ####
-./decrypt <filename>.result
+./decrypt < filename >.result
 
 ### ###
 
