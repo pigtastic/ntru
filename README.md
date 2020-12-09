@@ -1,13 +1,13 @@
 # ntru
 ## ITSEC ##
-###Install python3###
+### Install python3 ###
 ./install.sh
 ./key-gen.sh
 
-####encrypt####
+#### encrypt ####
 ./encrypt <filename of file in assets/resources>
 
-####decrypt####
+#### decrypt ####
 ./decrypt <filename>.result
 
 
