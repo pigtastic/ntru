@@ -2,6 +2,7 @@
 ## ITSEC ##
 ### Install python3 ###
 ./install.sh
+
 ./key-gen.sh
 
 #### encrypt ####
