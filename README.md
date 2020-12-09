@@ -10,6 +10,7 @@
 #### decrypt ####
 ./decrypt <filename>.result
 
+### ###
 
 **ntru** is a simple implementation of NTRUEncrypt cryptosystem, written in Python 3.6.
 Polynomial operations are implemented using [SymPy](http://www.sympy.org) library.
